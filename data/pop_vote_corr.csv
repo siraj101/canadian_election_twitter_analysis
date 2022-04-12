@@ -1,0 +1,8 @@
+,election_results
+in-degree_centrality,0.983975812690942
+out-degree_centrality,-0.5092578948655783
+betweeness_centrality,-0.5092578948655782
+eigenvector_centrality,0.8887573406103455
+closeness,-0.5092578948655783
+pagerank,0.967989786502354
+election_results,1.0
